@@ -18,4 +18,4 @@ I am a Sophomore Undergrad
 ---
 [![](https://visitcount.itsvg.in/api?id=iSparshP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Made with love <3 -->
