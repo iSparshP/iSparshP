@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Sophomore Undergrad
+As a sophomore undergraduate at SRMIST, I am currently pursuing a Bachelor's degree in Machine Learning and Artificial Intelligence. Although I have limited work experience, I am highly motivated and eager to learn as much as possible in this field.
+
+My key proficiencies include competitive programming and machine learning, with a strong understanding of C, C++, and Python programming languages. I am passionate about developing my skills and staying up-to-date with the latest developments in this rapidly-evolving field.
+
+While I have yet to gain professional experience, I have taken on several personal projects and self-study opportunities to improve my skills and knowledge. I am eager to connect with professionals in the industry and to learn from their experiences and expertise.
 
 
 ## 🌐 Socials:
