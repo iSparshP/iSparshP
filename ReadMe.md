@@ -9,6 +9,9 @@
 - Eager to connect with industry professionals and learn from their experiences and expertise.
 ![image](https://github.com/iSparshP/iSparshP/assets/77487266/f8e69309-89bc-4602-9d79-e748b693f66f)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
+[![An image of @isparshp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isparshp)](https://holopin.io/@isparshp)
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cPPBFY3c) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bysparsh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isparshp/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bysparsh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21223376/sparsh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iSparshPrakash) 
