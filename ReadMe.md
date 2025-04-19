@@ -1,5 +1,4 @@
-<!--Banner-->
-![Sparsh Banner Image](./Banner.png)
+<!--Banner--> ![Sparsh Banner Image](./Banner.png)
 
 ![image](https://github.com/iSparshP/iSparshP/assets/77487266/f8e69309-89bc-4602-9d79-e748b693f66f)<svg viewBox="-16 -32 880 192" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
 
